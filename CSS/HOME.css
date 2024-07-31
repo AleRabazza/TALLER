@@ -1,0 +1,50 @@
+.footer {
+    margin-top: auto;
+    background-color: #946e82; 
+    padding: 20px 0;
+    text-align: center;
+    color: #ffffff;
+    font-size: 1.2em; 
+}
+
+.footer a {
+    color: #9B5278;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
+
+.nav-container .nav-item .btn-secondary {
+    color: #fff; /* Color de fondo de los botones */
+    background-color: #946e82; /* Color de fondo de los botones */
+    border-color: #946e82; /* Color del borde de los botones */
+    margin-top: -200px
+}
+
+.nav-container .nav-item .btn-secondary:hover,
+.nav-container .nav-item .btn-secondary:focus {
+    background-color: #7a3e63;  
+    border-color: #7a3e63; 
+    
+}
+
+header img {
+    margin-top: 5px; /* Ajusta este valor según sea necesario */
+    position: center;
+}
+
+header{
+    color: #9B5278;
+    border-color: #946e82;
+    background-color: #946e82
+}
+
+.icon-link icon-link-hover{
+    color: #fff; /* Color de fondo de los botones */
+    background-color: #946e82; /* Color de fondo de los botones */
+    border-color: #946e82; /* Color del borde de los botones */
+    margin-top: -200px
+}
